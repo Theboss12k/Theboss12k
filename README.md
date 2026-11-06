@@ -1,69 +1,24 @@
-# 👋 Hi, I'm Paramesh Sriram
+# Hi, I’m Paramesh Sriram
 
-**Data Analyst → Robotics & Autonomous Systems**
+## About me
 
-I'm an engineer interested in **robotics, autonomous systems, path planning, computer vision, and software engineering**.
+I’m a mechanical engineer and data analyst working on robotics and autonomous systems. My projects connect mechanical design with simulation, motion planning, and the tools operators use to make decisions. I start with the engineering goal, then use AI where it can help.
 
-I enjoy building systems that combine **physical robotics with software**, particularly problems involving perception, planning, navigation, and multi-agent coordination.
+[Interactive portfolio](https://paramesh-sriram-portfolio.phantomknight371.chatgpt.site/) · Includes project demos and animated models from my CAD assemblies. Access is currently restricted to the portfolio owner.
 
-### 🔭 Currently Working On
+## Current projects
 
-* 🤖 **PHASE** — Physics-based Hierarchical Adaptive Spatial Evasion
-  A multi-agent trajectory coordination framework combining localized A* planning, event-triggered conflict resolution, priority-weighted evasion, and geometric constraint resolution.
-* 🚁 Autonomous vehicle and drone path-planning systems
-* 👁️ Computer vision and obstacle-avoidance algorithms
-* 🌐 Full-stack engineering projects involving Java, SQL, React, and backend systems
+- [RoboDE](https://github.com/Theboss12k/RoboDE) is a robotics workspace for setting up robots and scenes, then running task plans in Isaac Sim. [Walkthrough](https://theboss12k.github.io/RoboDE/)
+- [RYNTARA](https://github.com/Theboss12k/RYNTARA) brings drone and rover telemetry onto a shared map and lets operators check proposed routes against restricted areas and other traffic. [Walkthrough](https://theboss12k.github.io/RYNTARA/)
+- [PHASE](https://github.com/Theboss12k/Autonomous_Algorithms/tree/main/PHASE_Algorithm), short for Physics-based Hierarchical Adaptive Spatial Evasion, explores how multiple vehicles can coordinate trajectories using local A* planning and priority-based conflict resolution. [Research DOI](https://doi.org/10.5281/zenodo.22260336)
+- **TriTilt VTOL Rev A** is my three-rotor aircraft CAD design. The portfolio demonstrates the propeller pods tilting from hover to fixed-wing flight, along with the ailerons, rudders, and elevators.
+- **Worm Crawler Rev B** is my articulated tracked rover CAD design. The portfolio shows the treads rolling as the front and rear pods bend and twist.
 
-### 🛠️ Technologies & Interests
+## Tools and interests
 
-**Programming**
+I work with Python, Java, C/C++, SQL, and MATLAB. My interests include path planning, computer vision, control systems, robotics simulation, and mechanical design in Fusion 360.
 
-* Java
-* Python
-* C / C++
-* SQL
-* MATLAB
+## Connect
 
-**Robotics & Autonomous Systems**
-
-* Path Planning
-* A*
-* Multi-Agent Coordination
-* Obstacle Avoidance
-* Computer Vision
-* Autonomous Navigation
-* Robotics Simulation
-
-**Engineering**
-
-* Fusion 360
-* CAD / Mechanical Design
-* Control Systems
-* Automation
-
-### 📚 Research
-
-I'm currently working toward publishing research in **multi-agent trajectory coordination and autonomous navigation**.
-
-**PHASE — Physics-based Hierarchical Adaptive Spatial Evasion**
-
-🔗 [GitHub Repository](PHASE-GITHUB-URL)
-🔗 [DOI: 10.5281/zenodo.22260336](https://doi.org/10.5281/zenodo.22260336)
-
-### 🚀 Projects
-
-* **PHASE** — Multi-agent trajectory coordination
-* **RYNTARA** — Fleet monitoring and trajectory planning platform
-* Computer Vision-based obstacle avoidance
-* Advanced OCR processing pipelines
-* Robotics and multi-actuated rover systems
-
-### 📫 Connect With Me
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/paramesh-sriram-17121a230/)
-* 📧 [parameshsriram2002@gmail.com](mailto:parameshsriram2002@gmail.com)
-* 🐙 [GitHub](https://github.com/Theboss12k)
-
----
-
-*Interested in robotics, autonomous systems, path planning, computer vision, and building intelligent systems.*
+- [LinkedIn](https://www.linkedin.com/in/paramesh-sriram-17121a230/)
+- [Email](mailto:parameshsriram2002@gmail.com)
