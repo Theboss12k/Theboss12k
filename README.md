@@ -4,7 +4,7 @@
 
 I’m a mechanical engineer and data analyst working on robotics and autonomous systems. My projects connect mechanical design with simulation, motion planning, and the tools operators use to make decisions. I start with the engineering goal, then use AI where it can help.
 
-[Interactive portfolio](https://paramesh-sriram-portfolio.phantomknight371.chatgpt.site/) · Includes project demos and animated models from my CAD assemblies. Access is currently restricted to the portfolio owner.
+[Interactive portfolio](https://paramesh-sriram-portfolio.phantomknight371.chatgpt.site/) · Includes project demos and animated models from my CAD assemblies.
 
 ## Current projects
 
